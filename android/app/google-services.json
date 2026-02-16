@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776875801756",
+    "project_id": "zentra-hub",
+    "storage_bucket": "zentra-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776875801756:android:dac0138f470010b374c159",
+        "android_client_info": {
+          "package_name": "com.example.zentra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776875801756-ajkp0hucfb80tuibai1v24jqa0gqbtva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4EV4it16UCn59wHP3d6W7ILPr1e8dbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776875801756-ajkp0hucfb80tuibai1v24jqa0gqbtva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

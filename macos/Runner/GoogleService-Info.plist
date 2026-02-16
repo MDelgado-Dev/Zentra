@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>776875801756-152pi04dot4et273cn2tg4qnpcq4jdf8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.776875801756-152pi04dot4et273cn2tg4qnpcq4jdf8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpOedVIVhjdc_ED34sjE8laGoTjTo90pM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>776875801756</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zentra</string>
+	<key>PROJECT_ID</key>
+	<string>zentra-hub</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zentra-hub.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:776875801756:ios:ca54538099e5161074c159</string>
+</dict>
+</plist>
